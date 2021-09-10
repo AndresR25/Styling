@@ -1,0 +1,30 @@
+h1{
+    color:white;
+    background-color: black;
+    padding-left: 10px;
+    margin-bottom: 2mm;
+}
+span{
+    color:rgb(109, 201, 238)
+}
+
+h2{
+    background-color: blueviolet;
+    font-style:normal;
+    text-align: center;
+    color:white;
+    margin-top: 2mm;
+    margin-bottom: 2mm;
+
+}
+h3{
+    background-color: rgb(89, 168, 233);
+    text-align:right;
+    color:rgb(25, 28, 71);
+    margin-top: 2mm;
+    font-style:italic;
+    text-decoration: underline;
+    padding-right: 10px;
+
+
+}
